@@ -1,0 +1,13 @@
+{
+  "name": "kingdoge-swap-core",
+  "version": "1.0.0",
+  "description": "KingDoge Swap Core Contracts",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.4",
+    "truffle-plugin-verify": "^0.5.6"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.25"
+  }
+}
