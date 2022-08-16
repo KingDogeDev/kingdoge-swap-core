@@ -1,0 +1,12 @@
+/node_modules/
+/scripts/
+/migrations/
+/build/
+/test/
+/truffle-config.js
+tenderly.yaml
+
+# IDE & test files
+/.idea/
+ADDRESSES
+Examples
